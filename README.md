@@ -31,10 +31,6 @@ A modern and responsive personal portfolio website built using HTML, CSS, and Ja
 * Customer Segmentation
 * Dynamic Story Generator
 
-## 🔗 Live Website
-
-Coming Soon...
-
 ## 👩‍💻 Developed By
 
 P. Pallavi
